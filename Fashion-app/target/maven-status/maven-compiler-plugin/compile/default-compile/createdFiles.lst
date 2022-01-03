@@ -1,0 +1,4 @@
+Flipkart10\customer\CustomerServiceImpl.class
+Flipkart10\customer\executor\query\CustomerListByNameQryExe.class
+Flipkart10\order\OrderServiceImpl.class
+Flipkart10\customer\executor\CustomerAddCmdExe.class

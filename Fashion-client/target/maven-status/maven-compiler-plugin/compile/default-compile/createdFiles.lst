@@ -1,0 +1,7 @@
+Flipkart10\api\CustomerServiceI.class
+Flipkart10\dto\event\DomainEventConstant.class
+Flipkart10\dto\CustomerListByNameQry.class
+Flipkart10\dto\event\CustomerCreatedEvent.class
+Flipkart10\dto\CustomerAddCmd.class
+Flipkart10\dto\data\CustomerDTO.class
+Flipkart10\dto\data\ErrorCode.class

@@ -1,0 +1,9 @@
+Flipkart10\domain\customer\Credit.class
+Flipkart10\domain\customer\CompanyType.class
+Flipkart10\domain\customer\SourceType.class
+Flipkart10\domain\customer\domainservice\CreditChecker.class
+Flipkart10\domain\customer\gateway\CreditGateway.class
+Flipkart10\domain\customer\Customer.class
+Flipkart10\domain\customer\gateway\CustomerGateway.class
+Flipkart10\domain\customer\CustomerType.class
+Flipkart10\domain\order\Order.class

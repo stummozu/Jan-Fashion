@@ -1,0 +1,7 @@
+Flipkart10\config\ColaConfig.class
+Flipkart10\config\DiamondConfig.class
+Flipkart10\customer\CreditGatewayImpl.class
+Flipkart10\customer\CustomerGatewayImpl.class
+Flipkart10\customer\CustomerMapper.class
+Flipkart10\customer\CustomerDO.class
+Flipkart10\order\OrderGatewayImpl.class
